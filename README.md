@@ -1,7 +1,7 @@
 # SkyWings – Flight Booking Platform
 
 A modern flight booking platform built with HTML, CSS, and JavaScript, featuring modular components, booking functionality, and a clean, professional UI optimized for responsive and user-friendly experiences.
-
+The site is live at https://erionsfarqa.github.io/SkyWings/
 ## Project Screenshots
 
 <div align="center">
